@@ -1,5 +1,6 @@
 # algorithm_study
 참가자: yundo03, lachenalia
+
 기간: 4주
 
 ## 계획
