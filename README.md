@@ -1,2 +1,3 @@
 # algorithm_study
-# yundo
+# yundo, lachenalia
+
