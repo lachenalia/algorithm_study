@@ -1,24 +1,66 @@
 # algorithm_study
 참가자: yundo03, lachenalia
 
-기간: 4주
+## 진행상황
+-[ ] 해시
+  -[ ] concepts (yundo03)
+  -[ ] 문제풀이 - yundo03
+  -[x] 문제풀이 - lachenalia
 
-## 계획
 
-#### 1주차
- - 해시
-   - lachenalia: 문제풀이 완료
- - 스택/큐
- - 힙
- - 정렬
- - 완전탐색
+-[ ] 스택/큐
+  -[x] concepts (lachenalia)
+  -[ ] 문제풀이 - yundo03
+  -[x] 문제풀이 - lachenalia
 
-#### 2주차
- - 탐욕법
- - 동적계획법
- - 깊이/너비 우선 탐색
- - 이분탐색
- - 그래프
 
-#### 3, 4주차
-- 기출문제 풀이
+-[ ] 힙
+  -[ ] concepts (yundo03)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 정렬
+  -[ ] concepts (lachenalia)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 완전탐색
+  -[ ] concepts (yundo03)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 탐욕법
+  -[ ] concepts (lachenalia)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 동적계획법
+  -[ ] concepts (yundo03)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 깊이/너비 우선 탐색
+  -[ ] concepts (lachenalia)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 이분탐색
+  -[ ] concepts (yundo03)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+-[ ] 그래프
+  -[ ] concepts (lachenalia)
+  -[ ] 문제풀이 - yundo03
+  -[ ] 문제풀이 - lachenalia
+
+
+#### 기출문제 풀이
+- 예정
