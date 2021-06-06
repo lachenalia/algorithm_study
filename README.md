@@ -17,7 +17,7 @@
  - [ ] 힙
    - [ ] concepts (yundo03)
    - [ ] 문제풀이 - yundo03
-   - [ ] 문제풀이 - lachenalia
+   - [x] 문제풀이 - lachenalia
 
 
  - [ ] 정렬
