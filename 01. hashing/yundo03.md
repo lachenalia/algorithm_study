@@ -125,12 +125,40 @@ def solution(clothes):
 
 ### 입출력 예 설명
 classic 장르는 1,450회 재생되었으며, classic 노래는 다음과 같습니다.
+- 고유 번호 3: 800회 재생
+- 고유 번호 0: 500회 재생
+- 고유 번호 2: 150회 재생   
 
-고유 번호 3: 800회 재생
-고유 번호 0: 500회 재생
-고유 번호 2: 150회 재생
 pop 장르는 3,100회 재생되었으며, pop 노래는 다음과 같습니다.
+- 고유 번호 4: 2,500회 재생
+- 고유 번호 1: 600회 재생   
 
-고유 번호 4: 2,500회 재생
-고유 번호 1: 600회 재생
 따라서 pop 장르의 [4, 1]번 노래를 먼저, classic 장르의 [3, 0]번 노래를 그다음에 수록합니다.
+
+### 접근방법
+- 장르마다 두곡까지, 곡이 하나면 한곡만!
+- 플레이수 와 plays의 index번호로 딕셔너리 생성
+- 장르와 장르별 플레이수를 총합으로 딕셔너리 생성
+- 두 딕셔너리를 정렬과 비교로 최종 리스트를 뽑아낸다.   
+   
+### solution.py
+<pre>
+def solution(genres, plays):
+    answer = []
+    best_dict = {}
+    all_play = {}
+
+    for i in range(len(genres)):
+        genre = genres[i]
+        play = plays[i]
+        best_dict[genre] = best_dict.get(genre, 0) + play
+        all_play[genre] = all_play.get(genre, []) + [(play, i)]
+
+    genreSort = sorted(best_dict.items(), key=lambda x: -x[1])
+
+    for genre, _ in genreSort:
+        all_play[genre] = sorted(all_play[genre], key=lambda x: -x[0])
+        answer += [idx for _, idx in all_play[genre][:2]]
+
+    return answer
+</pre>
