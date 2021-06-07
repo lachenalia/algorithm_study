@@ -4,3 +4,6 @@
 - 키(key)에 대한 해시값(Value)을 사용하여 값을 저장하고 키-값 쌍의 갯수에 따라 동적으로 크기가 증가하는 associate array 이다 
 - 키(key)에 대한 해시값(Value)을 구하는 과정을 hashing(해싱)이라고 하며 이때 사용하는 함수(알고리즘)를 해시함수 라고 한다
 - 해시값 자체를 index로 사용하기 때문에 평군 시간복잡도가 O(1) 로 매우 빠르다
+
+##해시 테이블의 구조(Hash Table Data Structure)
+![image](https://user-images.githubusercontent.com/78263702/121074529-f0cd0f00-c80e-11eb-893e-32ba1820887f.png)
