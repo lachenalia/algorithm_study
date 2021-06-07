@@ -3,8 +3,8 @@
 
 ## 진행상황
  - [ ] 해시
-   - [ ] concepts (yundo03)
-   - [ ] 문제풀이 - yundo03
+   - [x] concepts (yundo03)
+   - [x] 문제풀이 - yundo03
    - [x] 문제풀이 - lachenalia
 
 
