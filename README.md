@@ -10,7 +10,7 @@
 
  - [ ] 스택/큐
    - [x] concepts (lachenalia)
-   - [ ] 문제풀이 - yundo03
+   - [x] 문제풀이 - yundo03
    - [x] 문제풀이 - lachenalia
 
 
