@@ -1,4 +1,4 @@
-# 코딩테스트 연습_코딩테스트 고득점 Kit_해시(Hash)
+# 코딩테스트 연습_코딩테스트 고득점 Kit_해시(Hash) 
 ## 완주하지 못한 선수
 ### 입출력 예
 |participant	|completion	|return   |
