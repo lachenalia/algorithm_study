@@ -2,13 +2,13 @@
 참가자: yundo03, lachenalia
 
 ## 진행상황
- - [ ] 해시
+ - [x] 해시
    - [x] concepts (yundo03)
    - [x] 문제풀이 - yundo03
    - [x] 문제풀이 - lachenalia
 
 
- - [ ] 스택/큐
+ - [x] 스택/큐
    - [x] concepts (lachenalia)
    - [x] 문제풀이 - yundo03
    - [x] 문제풀이 - lachenalia
